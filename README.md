@@ -6,4 +6,4 @@ Assignment 4
 
 Run and Compile using g++ in terminal
 
-Using a late day for this submission
+Using 2 late days for this submission
